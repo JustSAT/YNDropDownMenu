@@ -1,0 +1,4 @@
+module YNDropDownMenu {
+    header "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownMenu-Swift.h"
+    requires objc
+}

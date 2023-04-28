@@ -1,0 +1,41 @@
+{
+  "": {
+    "swift-dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/master.swiftdeps"
+  },
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownButton.swift": {
+    "dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownButton.d",
+    "object": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownButton.swift.o",
+    "swiftmodule": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownButton~partial.swiftmodule",
+    "swift-dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownButton.swiftdeps"
+  },
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownDelegate.swift": {
+    "dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDelegate.d",
+    "object": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDelegate.swift.o",
+    "swiftmodule": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDelegate.swiftdeps"
+  },
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownDeprecated.swift": {
+    "dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDeprecated.d",
+    "object": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDeprecated.swift.o",
+    "swiftmodule": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDeprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownDeprecated.swiftdeps"
+  },
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownMenu.swift": {
+    "dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownMenu.d",
+    "object": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownMenu.swift.o",
+    "swiftmodule": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownMenu~partial.swiftmodule",
+    "swift-dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownMenu.swiftdeps"
+  },
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownStatus.swift": {
+    "dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownStatus.d",
+    "object": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownStatus.swift.o",
+    "swiftmodule": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownStatus.swiftdeps"
+  },
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownView.swift": {
+    "dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownView.d",
+    "object": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownView.swift.o",
+    "swiftmodule": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownView~partial.swiftmodule",
+    "swift-dependencies": "/Users/artem/Documents/GitHub/YNDropDownMenu/.build/arm64-apple-macosx/debug/YNDropDownMenu.build/YNDropDownView.swiftdeps"
+  }
+}

@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "74eddbeadb203668d667b75fa5c3f4fecc94c614e936e23b4f47b83e265a995d"
+build_start_time: [1682670644, 620403000]
+build_end_time: [1682670647, 785461000]
+inputs:
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownButton.swift": !private [1682670480, 94742120]
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownDelegate.swift": !private [1682670480, 94832953]
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownDeprecated.swift": !private [1682670480, 94920328]
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownMenu.swift": !private [1682670480, 95155286]
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownStatus.swift": !private [1682670480, 95245661]
+  "/Users/artem/Documents/GitHub/YNDropDownMenu/YNDropDownMenu/YNDropDownView.swift": !private [1682670480, 95339161]
